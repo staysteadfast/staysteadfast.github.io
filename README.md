@@ -1,3 +1,0 @@
-# Stay Steadfast
-
-Hello World
